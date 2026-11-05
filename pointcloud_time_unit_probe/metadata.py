@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Comparer les hypothèses d’unité des horodatages de points', 'en': 'Compare point timestamp unit hypotheses', 'es': 'Comparar hipótesis de unidades de marcas temporales de puntos'}
